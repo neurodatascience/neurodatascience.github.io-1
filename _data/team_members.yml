@@ -2,7 +2,7 @@
   photo: bratislav.jpg
   info: Assistant Professor
   email: bratislav.misic@mcgill.ca
-  number_educ: 5
+  number_educ: 0
   education1:
   education2:
   education3:
@@ -13,15 +13,15 @@
   photo: golia.jpg
   info: PhD student
   email: golia.shafiei@mail.mcgill.ca
-  number_educ: 1
-  education1: Master Leiden University with Milan Allan
+  number_educ: 0
+  education1: 
 
 - name: Laura Suarez
-  photo: laura.png
+  photo: laura.jpg
   info: PhD student
   email: laura.suarez@mail.mcgill.ca
-  number_educ: 1
-  education1: Master Leiden University with Milan Allan
+  number_educ: 0
+  education1: 
   education2:
   education3:
   education4:
@@ -30,7 +30,7 @@
   photo: ross.jpg
   info: PhD student
   email: ross.markello@mail.mcgill.ca
-  number_educ: 2
+  number_educ: 0
   education1:
   education2:
   education3:
@@ -39,7 +39,7 @@
   photo: zhen-qi.jpg
   info: MSc student
   email: zhenqi.liu@mail.mcgill.ca
-  number_educ: 1
+  number_educ: 0
   education1:
   education2:
   education3:
@@ -49,7 +49,7 @@
   photo: vince.jpg
   info: MSc student
   email: vincent.bazinet@mail.mcgill.ca
-  number_educ: 2
+  number_educ: 0
   education1:
   education2:
   education3:
@@ -59,17 +59,17 @@
   photo: bertha.jpg
   info: Post-Doc
   email: bertha.vazquezrodriguez@mail.mcgill.ca
-  number_educ: 1
+  number_educ: 0
   education1:
   education2:
   education3:
   education4:
 
 - name: David Benrimoh
-  photo: DSC_1032.JPG
+  photo: david.jpg
   info: MSc student
-  email: david
-  number_educ: 2
+  email: david.benrimoh@mail.mcgill.ca
+  number_educ: 0
   education1:
   education2:
 
