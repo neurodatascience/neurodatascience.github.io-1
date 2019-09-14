@@ -1,5 +1,5 @@
 - title: "Spatial patterning of tissue volume loss in schizophrenia reflects brain network architecture"
-  image: 
+  image: epicenter.jpg
   description: Schizophrenia is marked by distributed patterns of tissue volume loss, but what is their origin?  We show that tissue volume loss closely follows connectome architecture.
   authors: Shafiei G, Markello RD, Talpalaru A, Makowski C, Devenyi GA. Griffa A, Hagmann P, Cashman N, Lepage M, Chakravarty MM, Dagher A, Misic B
   link:
@@ -8,7 +8,7 @@
   highlight: 1
 
 - title: "Connectome architecture, gene expression and functional co-activation shape the spread of neurodegenerative disease"
-  image: 
+  image: schematic.jpg
   description: We use agent-based models to simulate the propagation of misfolded proteins in Parkinson's disease. Our model highlights the joint contribution of local vulnerability and global network architecture in shaping disease course.
   authors: Zheng YQ, Zhang Y, Yau Y, Zeighami Y, Larcher K, Misic B†, Dagher A†
   link:
@@ -35,7 +35,7 @@
   highlight: 0
 
 - title: "Gradients of structure-function tethering across neocortex"
-  image: 
+  image: rsq_main.jpg
   description: Structure-function coupling is not uniform across cortex. We show gradual divergence through the unimodal-transmodal hierarchy.
   authors: Vazquez-Rodriguez B, Suarez LE, Markello RD, Shafiei G, Paquola C, van den Heuvel MP, Hagmann P, Hagmann P, Bernhardt BC, Spreng RN, Misic B
   link:
@@ -100,7 +100,7 @@
   news2:
 
 - title: "Distance-dependent consistency thresholds for generating group-representative structural networks"
-  image: STS_news.png
+  image: 
   description: Consistency thresholding of connectomes is improved when taking into account the spatial embedding of the brain.
   authors: Betzel RF, Griffa A, Hagmann P, Misic B
   link:
@@ -119,7 +119,7 @@
   highlight: 0
   
 - title: "Dopamine signaling modulates the stability and integration of intrinsic brain networks"
-  image: STS_news.png
+  image: fc_result.jpg
   description: Dopamine depletion can be used to selectively destabilize and disconnect intrinsic brain networks.
   authors: Shafiei G, Zeighami Y, Clark CA, Coull JT, Nagano-Saito A, Leyton M, Dagher A, Misic B
   link:
