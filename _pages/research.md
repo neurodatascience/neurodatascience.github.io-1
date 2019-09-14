@@ -20,7 +20,7 @@ A fundamental question in connectomics is how the organization of brain networks
 
 An emerging theme in network neuroscience emphasizes representations and models that not only embody the topological organization of the brain, but also capture the complex multi-scale relationships that link brain topology to its origins in genetics and development, and to the rich cognitive-behavioural repertoire it supports. We develop high-dimensional statistical models that map brain network organization to  phenotypic variation in healthy and clinical populations.
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/layers_fft.jpg){: style="width: 300px; border: 10px"}
+<img src="/images/respic/layers_real.jpg" class="align-left" alt="">
 
 **DISEASE SPREAD**
 
