@@ -51,7 +51,7 @@
 
 - title: "Tracking mood fluctuations with functional network patterns"
   image: 
-  description: ""
+  description:
   authors: Mirchi N, Betzel RF, Bernhardt BC, Dagher A, Misic B
   link:
     url: https://doi.org/10.1093/scan/nsy107
@@ -61,7 +61,7 @@
 
 - title: "Distance-dependent consistency thresholds for generating group-representative structural networks"
   image: 
-  description: ""
+  description:
   authors: Betzel RF, Griffa A, Hagmann P, Misic B
   link:
     url: https://doi.org/10.1162/netn_a_00075
@@ -69,7 +69,7 @@
   highlight: 1
   news2:
   
-  - title: "Mesolimbic connectivity signatures of impulsivity and BMI in early adolescence"
+- title: "Mesolimbic connectivity signatures of impulsivity and BMI in early adolescence"
   image: 
   description: ""
   authors: Sharkey RJ, Bourque J, Larcher K, Misic B, Zhang Y, Altinkaya A, Sadikot A, Conrod P, Evans AC, Garavan H, Leyton M, Seguin JR, Pihl R, Dagher A
@@ -79,7 +79,7 @@
   highlight: 1
   news2:
   
-  - title: "Dopamine signaling modulates the stability and integration of intrinsic brain networks"
+- title: "Dopamine signaling modulates the stability and integration of intrinsic brain networks"
   image: 
   description: ""
   authors: Shafiei G, Zeighami Y, Clark CA, Coull JT, Nagano-Saito A, Leyton M, Dagher A, Misic B
@@ -89,7 +89,7 @@
   highlight: 1
   news2:
   
-  - title: "Microstructure-informed connectomics: enriching large-scale network descriptions of the healthy and diseased brain"
+- title: "Microstructure-informed connectomics: enriching large-scale network descriptions of the healthy and diseased brain"
   image: 
   description: ""
   authors: Larivière S, Vos de Wael R, Paquola C, Hong SJ, Misic B, Bernasconi N, Bernasconi A, Bonilha L, Bernhardt BC
@@ -99,7 +99,7 @@
   highlight: 1
   news2:
   
-  - title: "Neurobehavioural correlates of obesity are largely heritable"
+- title: "Neurobehavioural correlates of obesity are largely heritable"
   image: 
   description: ""
   authors: Vainik U, Baker T, Dadar M, Zeighami Y, Michaud A, Zhang Y, Alanis JCG, Misic B, Collins DL, Dagher A
@@ -109,7 +109,7 @@
   highlight: 1
   news2:
   
-    - title: "Network-based asymmetry of the human auditory system"
+- title: "Network-based asymmetry of the human auditory system"
   image: 
   description: ""
   authors: Misic B, Betzel RF, Griffa A, de Reus MA, He Y, Zuo XN, van den Heuvel MP, Hagmann P, Sporns O, Zatorre R
@@ -119,7 +119,7 @@
   highlight: 1
   news2:
   
-    - title: "A clinical-anatomical signature of Parkinson’s Disease identified with partial least squares"
+- title: "A clinical-anatomical signature of Parkinson’s Disease identified with partial least squares"
   image: 
   description: ""
   authors: Zeighami Y, Fereshtehnejad S, Dadar M, Collins DL, Postuma R, Misic B†, Dagher A†
@@ -129,7 +129,7 @@
   highlight: 1
   news2:
   
-    - title: "Network connectivity predicts cortical thinning and cognitive decline in early Parkinson’s disease"
+- title: "Network connectivity predicts cortical thinning and cognitive decline in early Parkinson’s disease"
   image: 
   description: ""
   authors: . Yau Y, Zeighami Y, Baker T, Larcher K, Vainik U, Dadar M, Fonov V, Misic B, Collins DL, Dagher A
@@ -139,7 +139,7 @@
   highlight: 1
   news2:
   
-    - title: "Communication dynamics in complex brain networks"
+- title: "Communication dynamics in complex brain networks"
   image: 
   description: ""
   authors: Avena-Koenigsberger A, Misic B, Sporns O
@@ -149,7 +149,7 @@
   highlight: 1
   news2:
   
-    - title: ""
+- title: ""
   image: 
   description: ""
   authors:
@@ -158,4 +158,46 @@
     display:
   highlight: 1
   news2:
+  
+- title: ""
+  image: 
+  description: ""
+  authors:
+  link:
+    url:
+    display:
+  highlight: 1
+  news2:
+  
+- title: ""
+  image: 
+  description: ""
+  authors:
+  link:
+    url:
+    display:
+  highlight: 1
+  news2:
+  
+- title: ""
+  image: 
+  description: ""
+  authors:
+  link:
+    url:
+    display:
+  highlight: 1
+  news2:
+  
+- title: ""
+  image: 
+  description: ""
+  authors:
+  link:
+    url:
+    display:
+  highlight: 1
+  news2:
+  
+  
 
