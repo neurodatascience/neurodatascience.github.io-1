@@ -8,7 +8,7 @@ permalink: /research/
 
 # Research
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/layers_real.jpg){: .align-left}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/layers_real.jpg){: .align-left style="width: 300px; align-left; border: 10px"}
 
 **NETWORK COMMUNICATION**
 
