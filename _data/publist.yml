@@ -1,12 +1,20 @@
+- title: "Gradients of structure-function tethering across neocortex"
+  image: 
+  description: Structure-function coupling is not uniform across cortex. We show gradual divergence through the unimodal-transmodal hierarchy.
+  authors: Vazquez-Rodriguez B, Suarez LE, Markello RD, Shafiei G, Paquola C, van den Heuvel MP, Hagmann P, Hagmann P, Bernhardt BC, Spreng RN, Misic B
+  link:
+    url: https://doi.org/10.1101/561985
+    display: bioRxiv (2019)
+  highlight: 1
+
 - title: "Microstructural and functional gradients are increasingly dissociated in transmodal cortices"
-  image: STS_news.png
+  image:
   description: We succeeded in measuring the superfluid density with atomic resolution on an unconventional superconductor! In contrast to expectations for conventional superconductors, we find that the superfluid densisty is strongly inhomogeneous in FeTe0.55Se0.45.
   authors: Paquola C, Vos de Wael R, Wagstyl K, Bethlehem RAI, Hong SJ, Seidlitz J, Bullmore ET, Evans AC, Misic B, Margulies DS, Smallwood J, Bernhardt BC
   link:
     url: https://doi.org/10.1371/journal.pbio.3000284
     display: PLoS Biol, 17(5):e3000284 (2019)
-  highlight: 1
-  news2:
+  highlight: 0
 
 - title: "Aβ-induced vulnerability propagates via the brain’s default mode network"
   image: PbSpub.png
@@ -15,29 +23,25 @@
   link:
     url: https://doi.org/10.1038/s41467-019-10217-w
     display: Nat Commun 10:2353 (2019)
-  highlight: 1
-  news2:
+  highlight: 0
 
 - title: "Obesity has limited behavioural overlap with addiction and psychiatric phenotypes"
   image: DomePub.png
-  description: Our first completely home-built STM is alive! And it has the world’s highest resonance frequency.
+  description:
   authors: Vainik U, Misic B, Zeighami Y, Michaud A, Mottus R, Dagher A
   link:
     url: https://dx.doi.org/10.17605/OSF.IO/JT2B7
     display:  Nat Hum Behav (In Press)
-  highlight: 1
-  news2:
+  highlight: 0
 
 - title: "Loneliness and meaning in life is reflected in the intrinsic network architecture of the brain"
-  image: Pub_BCl.png
-  description: Using our newly developed noise-spectroscopy technique we discover charge trapping in a cuprate high-temperature superconductor.
+  image:
+  description:
   authors: Mwilambwe-Tshilobo L, Ge T, Chong M, Ferguson MA, Misic B, Burrow AL, Leahy R, Spreng RN
   link:
     url: https://www.nature.com/articles/s41567-018-0300-z
     display: Soc Cogn Affect Neurosci 14(4):423-433 (2019)
-  highlight: 1
-  news1:
-  news2:
+  highlight: 0
 
 - title: "Breast cancer treatment and recuperation effects on resting-state functional connectivity"
   image: 
@@ -50,7 +54,7 @@
   news2:
 
 - title: "Tracking mood fluctuations with functional network patterns"
-  image: 
+  image: STS_news.png
   description:
   authors: Mirchi N, Betzel RF, Bernhardt BC, Dagher A, Misic B
   link:
@@ -60,8 +64,8 @@
   news2:
 
 - title: "Distance-dependent consistency thresholds for generating group-representative structural networks"
-  image: 
-  description:
+  image: STS_news.png
+  description: Consistency thresholding of connectomes is improved when taking into account the spatial embedding of the brain.
   authors: Betzel RF, Griffa A, Hagmann P, Misic B
   link:
     url: https://doi.org/10.1162/netn_a_00075
@@ -76,12 +80,11 @@
   link:
     url: https://doi.org/10.1016/j.appet.2018.09.019
     display: Appetite, 132:25-36 (2019)
-  highlight: 1
-  news2:
+  highlight: 0
   
 - title: "Dopamine signaling modulates the stability and integration of intrinsic brain networks"
-  image: 
-  description: ""
+  image: STS_news.png
+  description: Dopamine depletion can be used to selectively destabilize and disconnect intrinsic brain networks.
   authors: Shafiei G, Zeighami Y, Clark CA, Coull JT, Nagano-Saito A, Leyton M, Dagher A, Misic B
   link:
     url: https://doi.org/10.1093/cercor/bhy264
@@ -96,8 +99,7 @@
   link:
     url: https://doi.org/10.1089/brain.2018.0587
     display: Brain Connectivity 9(2) (2019)
-  highlight: 1
-  news2:
+  highlight: 0
   
 - title: "Neurobehavioural correlates of obesity are largely heritable"
   image: 
@@ -106,11 +108,10 @@
   link:
     url: https://doi.org/10.1073/pnas.1718206115
     display: Proc Natl Acad Sci USA 115(37):9312-9317 (2019)
-  highlight: 1
-  news2:
+  highlight: 0
   
 - title: "Network-based asymmetry of the human auditory system"
-  image: 
+  image: STS_news.png
   description: ""
   authors: Misic B, Betzel RF, Griffa A, de Reus MA, He Y, Zuo XN, van den Heuvel MP, Hagmann P, Sporns O, Zatorre R
   link:
@@ -126,8 +127,7 @@
   link:
     url: https://doi.org/10.1016/j.neuroimage.2017.12.050
     display: NeuroImage, 190:69-78 (2019)
-  highlight: 1
-  news2:
+  highlight: 0
   
 - title: "Network connectivity predicts cortical thinning and cognitive decline in early Parkinson’s disease"
   image: 
@@ -140,8 +140,8 @@
   news2:
   
 - title: "Communication dynamics in complex brain networks"
-  image: 
-  description: ""
+  image: STS_news.png
+  description: Our review article about principles of neural signaling in large-scale brain networks.
   authors: Avena-Koenigsberger A, Misic B, Sporns O
   link:
     url: https://doi.org/10.1038/nrn.2017.149
@@ -156,8 +156,7 @@
   link:
     url: https://doi.org/10.1523/ENEURO.0204-17.2017
     display: eNeuro, 23 (2017)
-  highlight: 1
-  news2:
+  highlight: 0
   
 - title: "Anatomical and functional organization of the human substantia nigra and its connections"
   image: 
@@ -176,8 +175,7 @@
   link:
     url: http://dx.doi.org/10.1016/j.cmet.2017.07.015
     display: Cell Metab 26(2):284-285 (2017)
-  highlight: 1
-  news2:
+  highlight: 0
   
 - title: "Optimized connectome architecture for sensory-motor integration"
   image: 
@@ -186,7 +184,7 @@
   link:
     url: http://dx.doi.org/10.1162/NETN_a_00022
     display: Net Neurosci, 1(4):415-430 (2017)
-  highlight: 1
+  highlight: 0
   news2:
   
 - title: "Small vessel disease is linked to disrupted structural network covariance in Alzheimer’s disease"
@@ -196,7 +194,7 @@
   link:
     url: http://dx.doi.org/10.1016/j.jalz.2016.12.007
     display: Alzheimers Dement, 13(7):749-760 (2017)
-  highlight: 1
+  highlight: 0
   news2:
 
 - title: "Integration and segregation of large-scale brain networks during short-term task automatization"
@@ -206,8 +204,7 @@
   link:
     url: http://dx.doi.org/10.1038/ncomms13217
     display: Nat Commun, 7:13217 (2016)
-  highlight: 1
-  news2:
+  highlight: 0
 
 - title: "Brain network activity during face perception: the impact of familiarity and individual differences in childhood experience"
   image: 
@@ -216,8 +213,7 @@
   link:
     url: http://dx.doi.org/10.1093/cercor/bhw232
     display: Cereb Cortex, 27(9):4326-4338 (2016)
-  highlight: 1
-  news2:
+  highlight: 0
 
 - title: "Dynamic functional connectivity shapes individual differences in learning"
   image: 
@@ -226,8 +222,7 @@
   link:
     url: http://onlinelibrary.wiley.com/doi/10.1002/hbm.23285/abstract
     display: Hum Brain Mapp, 37(11):3911-3928 (2016)
-  highlight: 1
-  news2:
+  highlight: 0
 
 - title: "Path ensembles and a tradeoff between communication efficiency and resilience in the human connectome"
   image: 
@@ -236,8 +231,7 @@
   link:
     url: http://link.springer.com/article/10.1007%2Fs00429-016-1238-5
     display: Brain Struct Funct, 222(1):603-618 (2016)
-  highlight: 1
-  news2:
+  highlight: 0
 
 - title: "Network-level structure-function relationships in human neocortex"
   image: 
@@ -246,8 +240,7 @@
   link:
     url: http://cercor.oxfordjournals.org/content/26/7/3285.long
     display: Cereb Cortex, 26(7):3285-3296 (2016)
-  highlight: 1
-  news2:
+  highlight: 0
 
 - title: "From regions to connections and networks: New bridges between brain and behavior"
   image: 
@@ -256,8 +249,7 @@
   link:
     url: http://www.sciencedirect.com/science/article/pii/S095943881630054X
     display: Curr Opin Neurobiol, 40:1-7 (2016)
-  highlight: 1
-  news2:
+  highlight: 0
   
 - title: "Posttraumatic stress constrains the dynamic repertoire of neural activity"
   image: 
@@ -266,8 +258,7 @@
   link:
     url: http://dx.doi.org/10.1523/JNEUROSCI.1506-15.2016
     display: J Neurosci, 36(2):419-31 (2016)
-  highlight: 1
-  news2:
+  highlight: 0
   
 - title: "Generative models of the human connectome"
   image: 
@@ -276,8 +267,7 @@
   link:
     url: http://dx.doi.org/10.1016/j.neuroimage.2015.09.041
     display: NeuroImage, 124:1054-1064 (2015)
-  highlight: 1
-  news2:
+  highlight: 0
   
 - title: "[MEG]PLS: A pipeline for MEG data analysis and PLS statistics"
   image: 
@@ -286,8 +276,7 @@
   link:
     url: http://dx.doi.org/10.1016/j.neuroimage.2015.08.045
     display: NeuroImage, 124:181–193 (2015)
-  highlight: 1
-  news2:
+  highlight: 0
   
 - title: "A partial least-squares analysis of health related quality of life outcomes after aneurysmal subarachnoid hemorrhage"
   image: 
@@ -296,8 +285,7 @@
   link:
     url: http://dx.doi.org/10.1227/NEU.0000000000000928
     display: Neurosurgery,77(6):908–15 (2015)
-  highlight: 1
-  news2:
+  highlight: 0
 
 - title: "Quantifying the health benefits of neighborhood greenspace"
   image: 
@@ -306,8 +294,7 @@
   link:
     url: http://dx.doi.org/10.1038/srep11610
     display: Sci Reports, 5:11610 (2015)
-  highlight: 1
-  news2:
+  highlight: 0
 
 - title: "Cooperative and competitive spreading dynamics on the human connectome"
   image: 
@@ -326,8 +313,7 @@
   link:
     url: http://dx.doi.org/10.1073/pnas.1503436112
     display: Proc Natl Acad Sci USA, 112(2):6473–6478 (2015)
-  highlight: 1
-  news2:
+  highlight: 0
 
 - title: "Coordinated information generation and mental flexibility: large-scale network disruption in children with autism "
   image: 
@@ -336,8 +322,7 @@
   link:
     url: http://dx.doi.org/10.1093/cercor/bhu082
     display: Cereb Cortex, 25(9):2815-2827 (2015)
-  highlight: 1
-  news2:
+  highlight: 0
 
 - title: "A network convergence zone in the hippocampus"
   image: 
@@ -346,8 +331,7 @@
   link:
     url: http://dx.doi.org/10.1371/journal.pcbi.1003982
     display: PLoS Comput Biol, 10(12):e1003982 (2014)
-  highlight: 1
-  news2:
+  highlight: 0
 
 - title: "The functional connectivity landscape of the human brain"
   image: 
@@ -356,8 +340,7 @@
   link:
     url: http://dx.doi.org/10.1371/journal.pone.0111007
     display: PLoS ONE, 9(10):e111007 (2014)
-  highlight: 1
-  news2:
+  highlight: 0
 
 - title: "Does resting-state connectivity reflect depressive rumination? A tale of two analyses"
   image: 
@@ -366,8 +349,7 @@
   link:
     url: http://dx.doi.org/10.1016/j.neuroimage.2014.09.027
     display: NeuroImage, 103:267–279 (2014)
-  highlight: 1
-  news2:
+  highlight: 0
   
 - title: "Developmental trajectory of face processing revealed by integrative dynamics"
   image: 
@@ -376,8 +358,7 @@
   link:
     url: http://dx.doi.org/10.1162/jocn_a_00640
     display: J Cogn Neurosci, 26(10):2416–2430 (2014)
-  highlight: 1
-  news2:
+  highlight: 0
 
 - title: "Communication efficiency and congestion of signal traffic in large-scale brain networks"
   image: 
@@ -386,8 +367,7 @@
   link:
     url: http://dx.doi.org/10.1371/journal.pcbi.1003427
     display: PLoS Comput Biol, 10(1):e1003427 (2014)
-  highlight: 1
-  news2:
+  highlight: 0
 
 - title: "Using multivariate data reduction to predict post-surgery memory decline in patients with mesial temporal lobe epilepsy"
   image: 
@@ -396,8 +376,7 @@
   link:
     url: http://dx.doi.org/10.1016/j.yebeh.2013.09.043
     display: Epilepsy Behav 31:220–227 (2013)
-  highlight: 1
-  news2:
+  highlight: 0
 
 - title: "Effective connectivity"
   image: 
@@ -406,8 +385,7 @@
   link:
     url: http://dx.doi.org/10.1016/B978-0-12-397025-1.00336-5
     display: Brain Mapping:An Encyclopedic Reference, 587-592 (2013)
-  highlight: 1
-  news2:
+  highlight: 0
 
 - title: "Exploring changes in dynamical non-stationarity of elecetroencephalographic brain signals in early adolescence"
   image: 
@@ -416,8 +394,7 @@
   link:
     url: http://dx.doi.org/10.1371/journal.pone.0057217
     display: PLoS ONE, 8(3):e57217 (2013)
-  highlight: 1
-  news2:
+  highlight: 0
 
 - title: "Confounding effects of phase delay on causality estimation"
   image: 
@@ -426,8 +403,7 @@
   link:
     url: http://dx.doi.org/doi:10.1371/journal.pone.0053588
     display: PLoS ONE 8(1):e53588 (2013)
-  highlight: 1
-  news2:
+  highlight: 0
 
 - title: "Multivariate statistical analyses for neuroimaging data"
   image: 
@@ -436,8 +412,7 @@
   link:
     url: http://dx.doi.org/doi:10.1146/annurev-psych-113011-143804
     display: Annu Rev Psychol 64, 499–525 (2013)
-  highlight: 1
-  news2:
+  highlight: 0
 
 - title: "Functional embedding predicts the variability of neural activity"
   image: 
@@ -446,8 +421,7 @@
   link:
     url: http://dx.doi.org/doi:10.3389/fnsys.2011.00090
     display: Front Syst Neurosci 5(90) (2011)
-  highlight: 1
-  news2:
+  highlight: 0
 
 - title: "Empirical and theoretical aspects of generation and transfer of information in a neuromagnetic source network"
   image: 
@@ -456,8 +430,7 @@
   link:
     url: http://dx.doi.org/doi:10.3389/fnsys.2011.00096
     display: Front Syst Neurosci 5(96) (2011)
-  highlight: 1
-  news2:
+  highlight: 0
 
 - title: "Extracting message inter-departure time distributions from the human electroencephalogram"
   image: 
@@ -466,8 +439,7 @@
   link:
     url: http://dx.doi.org/doi:10.1371/journal.pcbi.1002065
     display: PLoS Comput Biol 7(6):e1002065 (2011)
-  highlight: 1
-  news2:
+  highlight: 0
 
 - title: "Brain noise is task-dependent and region-specific"
   image: 
@@ -476,8 +448,7 @@
   link:
     url: http://dx.doi.org/doi:10.1152/jn.00648.2010
     display: J Neurophysiol 104(5), 2667–2676 (2010)
-  highlight: 1
-  news2:
+  highlight: 0
   
   - title: "Knowledge-driven contrast gain control is characterized by two distinct electrocortical markers"
   image: 
@@ -486,5 +457,4 @@
   link:
     url: http://dx.doi.org/doi:10.3389/neuro.09.078.2009
     display: Front Hum Neurosci 3(78) (2009)
-  highlight: 1
-  news2:
+  highlight: 0
