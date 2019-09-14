@@ -443,14 +443,14 @@
 
 - title: "Brain noise is task-dependent and region-specific"
   image: 
-  description: ""
+  description:
   authors: Misic B, Mills T, Taylor MJ and McIntosh AR 
   link:
     url: http://dx.doi.org/doi:10.1152/jn.00648.2010
     display: J Neurophysiol 104(5), 2667–2676 (2010)
   highlight: 0
 
-  - title: "Knowledge-driven contrast gain control is characterized by two distinct electrocortical markers"
+- title: "Knowledge-driven contrast gain control is characterized by two distinct electrocortical markers"
   image: 
   description: ""
   authors: Misic B, Schneider BA and McIntosh AR 
