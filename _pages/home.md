@@ -59,11 +59,11 @@ We are a dynamic research group at the [Montreal Neurological Institute](https:/
 
 
 
-To this end, we develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom. We want do be able to build the perfect instruments to answer the  scientific questions we deem most important (see [Research](research)).
+Our goal is to quantify the effects of disease on network structure and function. We develop new models of network communication and apply these models in healthy and clinical populations. Our research lies at the intersection of network science, dynamical systems theory and multivariate statistics, with a focus on complex data sets involving multiple neuroimaging modalities, including fMRI, DWI, MEG/EEG and PET. We pursue several distinct project themes, from modeling communication processes on anatomical networks, to statistical models of network architecture and cognitive-behavioral phenotypes (see [Research](research)).
 
-We are located at the Montreal Neurological Institute at McGill University, the birthplace of superconductivity and home to Kamerlingh Onnes, Lorentz, Huygens, Einstein, de Sitter, and others (see e.g. [the wall of signatures from Ehrenfest lecturers](https://www.lorentz.leidenuniv.nl/history/colloquium/muur_heel.html)). We exchange ideas and work with our neighbors from [Quantum Matter & Optics](http://www.physics.leidenuniv.nl/qo-home), as well as with the colleagues from our [world-class theory section](https://www.lorentz.leidenuniv.nl).
+We are located at the Montreal Neurological Institute at McGill University, the birthplace of cognitive neuroscience and home to Penfield, Milner, Jasper and others. We exchange ideas and work with our neighbors in the [McConnell Brain Imaging Centre](https://www.mcgill.ca/bic/). The lab is a diverse group of people interested in cognitive neuroscience and connectomics. We are looking to recruit more graduate students and postdocs with backgrounds in engineering, statistics, physics and life sciences.
 
-We are grateful for funding from Leiden University, [NWO](www.nwo.nl) ([Vidi talent scheme](http://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme) and the [Frontiers in Nanoscience program](https://www.universiteitleiden.nl/en/research/research-projects/science/frontiers-of-nanoscience-nanofront)), and from an [ERC starting grant](https://erc.europa.eu/funding/starting-grants).
+We are grateful for funding from Canadian Institutes of Health Research ([CIHR](http://www.cihr-irsc.gc.ca/)), the Natural Sciences and Engineering Council of Canada ([NSERC](http://www.nserc-crsng.gc.ca)), the Canada Research Chairs Program ([CRC](http://www.chairs-chaires.gc.ca/)) and the Fonds de Recherche Sante Quebec ([FRQS](http://www.frqs.gouv.qc.ca/)).
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 210px">
