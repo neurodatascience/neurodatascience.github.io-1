@@ -1,3 +1,39 @@
+- title: "Spatial patterning of tissue volume loss in schizophrenia reflects brain network architecture"
+  image: 
+  description: Schizophrenia is marked by distributed patterns of tissue volume loss, but what is their origin?  We show that tissue volume loss closely follows connectome architecture.
+  authors: Shafiei G, Markello RD, Talpalaru A, Makowski C, Devenyi GA. Griffa A, Hagmann P, Cashman N, Lepage M, Chakravarty MM, Dagher A, Misic B
+  link:
+    url: https://doi.org/10.1101/626168
+    display: bioRxiv (2019)
+  highlight: 0
+
+- title: "Connectome architecture, gene expression and functional co-activation shape the spread of neurodegenerative disease"
+  image: 
+  description: We use agent-based models to simulate the propagation of misfolded proteins in Parkinson's disease. Our model highlights the joint contribution of local vulnerability and global network architecture in shaping disease course.
+  authors: Zheng YQ, Zhang Y, Yau Y, Zeighami Y, Larcher K, Misic B†, Dagher A†
+  link:
+    url: https://doi.org/10.1101/449199
+    display: bioRxiv (2019)
+  highlight: 0
+
+- title: "Brain developmental hierarchy reveals glioblastoma origin and therapeutic targets "
+  image: 
+  description: 
+  authors: Couturier CP, Ayyadhury S, Le PU, Monglong J, Allache R, Amin S, Riva G, Bourgey M, Lee C, Yan X, Wang D, Yong W, Guiot MC, Misic B, Antel J, Bourque G, Ragoussis J, Petrecca K
+  link:
+    url: https://doi.org/10.1101/449439
+    display: bioRxiv (2019)
+  highlight: 0
+
+- title: "BrainSpace: a toolbox for the analysis of macroscale gradients in neuroimaging and connectomics datasets"
+  image: 
+  description: 
+  authors: Vos de Wael R, Benkarim O, Paquola C, Lariviere S, Royer J, Tavakol S, Xu T, Hong SJ, Valk S, Misic B, Milham M, Margulies DS, Smallwood J, Benhardt BC
+  link:
+    url: https://doi.org/10.1101/761460
+    display: bioRxiv (2019)
+  highlight: 0
+
 - title: "Gradients of structure-function tethering across neocortex"
   image: 
   description: Structure-function coupling is not uniform across cortex. We show gradual divergence through the unimodal-transmodal hierarchy.
@@ -9,7 +45,7 @@
 
 - title: "Microstructural and functional gradients are increasingly dissociated in transmodal cortices"
   image:
-  description: We succeeded in measuring the superfluid density with atomic resolution on an unconventional superconductor! In contrast to expectations for conventional superconductors, we find that the superfluid densisty is strongly inhomogeneous in FeTe0.55Se0.45.
+  description: 
   authors: Paquola C, Vos de Wael R, Wagstyl K, Bethlehem RAI, Hong SJ, Seidlitz J, Bullmore ET, Evans AC, Misic B, Margulies DS, Smallwood J, Bernhardt BC
   link:
     url: https://doi.org/10.1371/journal.pbio.3000284
@@ -54,13 +90,13 @@
   news2:
 
 - title: "Tracking mood fluctuations with functional network patterns"
-  image: STS_news.png
+  image: 
   description:
   authors: Mirchi N, Betzel RF, Bernhardt BC, Dagher A, Misic B
   link:
     url: https://doi.org/10.1093/scan/nsy107
     display: Soc Cogn Affect Neurosci 14(1):47-57 (2019)
-  highlight: 1
+  highlight: 0
   news2:
 
 - title: "Distance-dependent consistency thresholds for generating group-representative structural networks"
@@ -117,7 +153,7 @@
   link:
     url: https://doi.org/10.109 3/cercor/bhy101
     display: Cereb Cortex, 7(1):2655-2665 (2019)
-  highlight: 1
+  highlight: 0
   news2:
   
 - title: "A clinical-anatomical signature of Parkinson’s Disease identified with partial least squares"
@@ -136,7 +172,7 @@
   link:
     url: https://doi.org/10.1038/s41467-017-02416-0
     display: Nat Commun, 9:12 (2018)
-  highlight: 1
+  highlight: 0
   news2:
   
 - title: "Communication dynamics in complex brain networks"
@@ -258,6 +294,15 @@
   link:
     url: http://dx.doi.org/10.1523/JNEUROSCI.1506-15.2016
     display: J Neurosci, 36(2):419-31 (2016)
+  highlight: 0
+
+- title: "Functional modules reconfigure at multiple scales across the lifespan"
+  image: 
+  description: 
+  authors: Betzel RF, Misic B, He Y, Rumschlag J, Zuo X-N and Sporns O
+  link:
+    url: https://arxiv.org/abs/1510.08045
+    display: arXiv (2015)
   highlight: 0
   
 - title: "Generative models of the human connectome"
