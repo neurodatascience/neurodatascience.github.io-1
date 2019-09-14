@@ -11,7 +11,7 @@ permalink: /publications/
 
 ## Highlights
 
-(For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.ca/citations?user=Jv_ICEoAAAAJ&hl=en), [ResearchGate](https://www.researchgate.net/profile/Bratislav_Misic))
+(For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.ca/citations?user=Jv_ICEoAAAAJ&hl=en), [PubMed](https://www.ncbi.nlm.nih.gov/pubmed?term=Misic%20B%5BAuthor%5D)) or [ResearchGate](https://www.researchgate.net/profile/Bratislav_Misic))
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
