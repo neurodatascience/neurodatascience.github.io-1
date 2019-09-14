@@ -35,7 +35,7 @@
   highlight: 0
 
 - title: "Gradients of structure-function tethering across neocortex"
-  image: rsq_main.jpg
+  image: rsq_main.png
   description: Structure-function coupling is not uniform across cortex. We show gradual divergence through the unimodal-transmodal hierarchy.
   authors: Vazquez-Rodriguez B, Suarez LE, Markello RD, Shafiei G, Paquola C, van den Heuvel MP, Hagmann P, Hagmann P, Bernhardt BC, Spreng RN, Misic B
   link:
@@ -100,7 +100,7 @@
   news2:
 
 - title: "Distance-dependent consistency thresholds for generating group-representative structural networks"
-  image: 
+  image: consistency.png
   description: Consistency thresholding of connectomes is improved when taking into account the spatial embedding of the brain.
   authors: Betzel RF, Griffa A, Hagmann P, Misic B
   link:
@@ -176,7 +176,7 @@
   news2:
   
 - title: "Communication dynamics in complex brain networks"
-  image: STS_news.png
+  image: sc_fc_communities.png
   description: Our review article about principles of neural signaling in large-scale brain networks.
   authors: Avena-Koenigsberger A, Misic B, Sporns O
   link:
