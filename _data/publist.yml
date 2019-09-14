@@ -149,6 +149,106 @@
   highlight: 1
   news2:
   
+- title: "Lesion-symptom mapping including structural and dynamic connectome measures: a modern approach with applications for post-stroke aphasia"
+  image: 
+  description: ""
+  authors: Del Gaizo J, Fridriksson J, Yourganov G, Hills AE, Misic B, Hickok G, Rorden C, Bonilha L
+  link:
+    url: https://doi.org/10.1523/ENEURO.0204-17.2017
+    display: eNeuro, 23 (2017)
+  highlight: 1
+  news2:
+  
+- title: "Anatomical and functional organization of the human substantia nigra and its connections"
+  image: 
+  description: ""
+  authors: Zhang Y, Larcher K, Misic B, Dagher A
+  link:
+    url: https://doi.org/10.7554/eLife.26653
+    display: eLife, 6:e26653 (2017)
+  highlight: 1
+  news2:
+  
+- title: "Holding onto youth"
+  image: 
+  description: ""
+  authors: Dagher A, Misic B 
+  link:
+    url: http://dx.doi.org/10.1016/j.cmet.2017.07.015
+    display: Cell Metab 26(2):284-285 (2017)
+  highlight: 1
+  news2:
+  
+- title: "Optimized connectome architecture for sensory-motor integration"
+  image: 
+  description: ""
+  authors: Worrell JC, Rumschlag J, Betzel RF, Sporns O and Misic B
+  link:
+    url: http://dx.doi.org/10.1162/NETN_a_00022
+    display: Net Neurosci, 1(4): 415-430 (2017)
+  highlight: 1
+  news2:
+  
+- title: "Small vessel disease is linked to disrupted structural network covariance in Alzheimer’s disease"
+  image: 
+  description: ""
+  authors: Nestor SM, Misic B, Ramirez J, Zhao J, Graham SJ, Verhoeff NPLG, Stuss DT, Masellis M and Black SE
+  link:
+    url: http://dx.doi.org/10.1016/j.jalz.2016.12.007
+    display: Alzheimers Dement, 13(7):749-760 (2017)
+  highlight: 1
+  news2:
+
+- title: "Integration and segregation of large-scale brain networks during short-term task automatization"
+  image: 
+  description: ""
+  authors: Mohr H, Wolfensteller U, Betzel RF, Misic B, Sporns O, Richiardi J and Ruge H
+  link:
+    url: http://dx.doi.org/10.1038/ncomms13217
+    display: Nat Commun, 7:13217 (2016)
+  highlight: 1
+  news2:
+
+- title: "Brain network activity during face perception: the impact of familiarity and individual differences in childhood experience"
+  image: 
+  description: ""
+  authors: Cloutier J, Li T, Misic B, Correll J and Berman MG
+  link:
+    url: http://dx.doi.org/10.1093/cercor/bhw232
+    display: Cereb Cortex, 27(9):4326-4338 (2016)
+  highlight: 1
+  news2:
+
+- title: "Dynamic functional connectivity shapes individual differences in learning"
+  image: 
+  description: ""
+  authors: Fatima Z, Kovacevic N, Misic B and McIntosh AR
+  link:
+    url: http://onlinelibrary.wiley.com/doi/10.1002/hbm.23285/abstract
+    display: Hum Brain Mapp, 37(11):3911-3928 (2016)
+  highlight: 1
+  news2:
+
+- title: "Path ensembles and a tradeoff between communication efficiency and resilience in the human connectome"
+  image: 
+  description: ""
+  authors: Avena-Koenigsberger A, Misic B, Hawkins R, Griffa A, Hagmann P, Goñi J and Sporns O
+  link:
+    url: http://link.springer.com/article/10.1007%2Fs00429-016-1238-5
+    display: Brain Struct Funct, 222(1):603-618 (2016)
+  highlight: 1
+  news2:
+
+- title: "Network-level structure-function relationships in human neocortex"
+  image: 
+  description: ""
+  authors: Misic B, Betzel RF, de Reus MA, van den Heuvel MP, Berman M, McIntosh AR and Sporns O
+  link:
+    url: http://cercor.oxfordjournals.org/content/26/7/3285.long
+    display: Cereb Cortex, 26(7):3285-3296 (2016)
+  highlight: 1
+  news2:
+
 - title: ""
   image: 
   description: ""
@@ -199,5 +299,14 @@
   highlight: 1
   news2:
   
-  
+- title: ""
+  image: 
+  description: ""
+  authors:
+  link:
+    url:
+    display:
+  highlight: 1
+  news2:
+
 
