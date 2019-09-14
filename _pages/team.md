@@ -11,7 +11,7 @@ permalink: /team/
  **The lab is a diverse group of people interested in cognitive neuroscience and connectomics. We are looking to recruit more graduate students and postdocs with backgrounds in engineering, statistics, physics and life sciences.**
 
 
-Jump to [team](#team), [alumni](#alumni), [lab visitors](#lab-visitors).
+Jump to [team](#team), [alumni](#alumni), [visitors](#visitors).
 
 ## Team
 {% assign number_printed = 0 %}
