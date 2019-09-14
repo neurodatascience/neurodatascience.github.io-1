@@ -5,7 +5,7 @@
   link:
     url: https://doi.org/10.1101/626168
     display: bioRxiv (2019)
-  highlight: 0
+  highlight: 1
 
 - title: "Connectome architecture, gene expression and functional co-activation shape the spread of neurodegenerative disease"
   image: 
@@ -14,7 +14,7 @@
   link:
     url: https://doi.org/10.1101/449199
     display: bioRxiv (2019)
-  highlight: 0
+  highlight: 1
 
 - title: "Brain developmental hierarchy reveals glioblastoma origin and therapeutic targets "
   image: 
@@ -201,7 +201,7 @@
   link:
     url: https://doi.org/10.7554/eLife.26653
     display: eLife, 6:e26653 (2017)
-  highlight: 1
+  highlight: 0
   news2:
   
 - title: "Holding onto youth"
@@ -348,7 +348,7 @@
   link:
     url: http://dx.doi.org/10.1016/j.neuron.2015.05.035
     display: Neuron, 86(6):1518–1529 (2015)
-  highlight: 1
+  highlight: 0
   news2:
 
 - title: "Stable long-range interhemispheric coordination is supported by direct anatomical projections"
