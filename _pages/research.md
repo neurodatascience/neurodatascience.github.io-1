@@ -12,7 +12,7 @@ Our overarching goal is to explore and understand new quantum states of electron
 
 Questions of interest include: (i), How does the Mott state collapse upon doping and how is this related to the complex phase diagram of high-temperature superconductors? (ii), What is the strange metal phase seen in correlated electron systems? Is this an exotic long-range entangled state? What is the mechanism of dissipation in that state? (iii), Why is the transition temperature in high-temperature superconductors so high? 
  
-![]({{ site.url }}{{ site.baseurl }}/images/respic/layers_real.jpg){: .align-left style="width: 300px; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/layers_real.jpg){:style="width: 300px; align-left; border: 10px"}
 
 Currently, our instrument of choice  is SI-STM.  State-of-the-art SI-STM measures an array of tunneling spectra on a given sample, registered to the atomic sites with picometer precision. Each is proportional to the local density of states at a given location. Ideally, the recorded spectra are so tightly packed that the measurement yields a three-dimensional mapping of the local density of states as a function of locations and energy. This is shown on the image on the right-hand side (10x10 nm2), and its Fourier transform, below.
 {:style="clear: left"}
