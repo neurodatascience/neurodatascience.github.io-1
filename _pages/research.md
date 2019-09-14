@@ -20,13 +20,13 @@ A fundamental question in connectomics is how the organization of brain networks
 
 An emerging theme in network neuroscience emphasizes representations and models that not only embody the topological organization of the brain, but also capture the complex multi-scale relationships that link brain topology to its origins in genetics and development, and to the rich cognitive-behavioural repertoire it supports. We develop high-dimensional statistical models that map brain network organization to  phenotypic variation in healthy and clinical populations.
 
-<img src="/images/bratislav.jpg" class="align-left" alt="">
+<img src="/images/teampic/bratislav.jpg" class="align-left" alt="">
 
 **DISEASE SPREAD**
 
 Axonal fibers provide a scaffold through which misfolded pathogenic proteins spread, shaping the course and expression of neurodegenerative diseases such as Parkinson’s (PD) and Alzheimer’s (AD) disease.  We are developing generative models that integrate connectivity (diffusion MRI), co-activation (functional MRI) and genetics (mRNA transcription patterns) to predict neurodegenerative spread in PD and AD. These dynamic agent-based models simulate the propagation of pathogenic protein molecules (agents) along white matter fibers.
 
-![left-aligned-image](bratislav.jpg){: .align-left}
+![left-aligned-image](/images/teampic/bratislav.jpg){: .align-left}
 
 **INTRINSIC VARIABILITY**
  
