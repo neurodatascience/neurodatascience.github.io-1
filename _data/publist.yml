@@ -132,7 +132,7 @@
 - title: "Network connectivity predicts cortical thinning and cognitive decline in early Parkinson’s disease"
   image: 
   description: ""
-  authors: . Yau Y, Zeighami Y, Baker T, Larcher K, Vainik U, Dadar M, Fonov V, Misic B, Collins DL, Dagher A
+  authors: Yau Y, Zeighami Y, Baker T, Larcher K, Vainik U, Dadar M, Fonov V, Misic B, Collins DL, Dagher A
   link:
     url: https://doi.org/10.1038/s41467-017-02416-0
     display: Nat Commun, 9:12 (2018)
@@ -249,64 +249,242 @@
   highlight: 1
   news2:
 
-- title: ""
+- title: "From regions to connections and networks: New bridges between brain and behavior"
   image: 
   description: ""
-  authors:
+  authors: Misic B and Sporns O
   link:
-    url:
-    display:
+    url: http://www.sciencedirect.com/science/article/pii/S095943881630054X
+    display: Curr Opin Neurobiol, 40:1-7 (2016)
   highlight: 1
   news2:
   
-- title: ""
+- title: "Posttraumatic stress constrains the dynamic repertoire of neural activity"
   image: 
   description: ""
-  authors:
+  authors: Misic B, Dunkley BT, Sedge PA, Da Costa L, Fatima Z, Berman MG, Doesburg SM, McIntosh AR, Grodecki R, Jetly R, Pang EW and Taylor MJ
   link:
-    url:
-    display:
+    url: http://dx.doi.org/10.1523/JNEUROSCI.1506-15.2016
+    display: J Neurosci, 36(2):419-31 (2016)
   highlight: 1
   news2:
   
-- title: ""
+- title: "Generative models of the human connectome"
   image: 
   description: ""
-  authors:
+  authors: Betzel RF, Avena-Koenigsberger A, Goñi J, He Y, de Reus MA, Griffa A, Vértes PE, Misic B, Thiran JP, Hagmann P, van den Heuvel MP, Zuo XN, Bullmore ET and Sporns O
   link:
-    url:
-    display:
+    url: http://dx.doi.org/10.1016/j.neuroimage.2015.09.041
+    display: NeuroImage, 124:1054-1064 (2015)
   highlight: 1
   news2:
   
-- title: ""
+- title: "[MEG]PLS: A pipeline for MEG data analysis and PLS statistics"
   image: 
   description: ""
-  authors:
+  authors: Cheung MJ, Kovacevic N, Fatima Z, Misic B and McIntosh AR
   link:
-    url:
-    display:
+    url: http://dx.doi.org/10.1016/j.neuroimage.2015.08.045
+    display: NeuroImage, 124:181–193 (2015)
   highlight: 1
   news2:
   
-- title: ""
+- title: "A partial least-squares analysis of health related quality of life outcomes after aneurysmal subarachnoid hemorrhage"
   image: 
   description: ""
-  authors:
+  authors: Young JA, Morgan BR, Misic B, Schweizer TA, Ibrahim GM and Macdonald RL
   link:
-    url:
-    display:
-  highlight: 1
-  news2:
-  
-- title: ""
-  image: 
-  description: ""
-  authors:
-  link:
-    url:
-    display:
+    url: http://dx.doi.org/10.1227/NEU.0000000000000928
+    display: Neurosurgery,77(6):908–15 (2015)
   highlight: 1
   news2:
 
+- title: "Quantifying the health benefits of neighborhood greenspace"
+  image: 
+  description: ""
+  authors: Kardan O, Gozdyra P, Misic B, Paus T and Berman MG
+  link:
+    url: http://dx.doi.org/10.1038/srep11610
+    display: Sci Reports, 5:11610 (2015)
+  highlight: 1
+  news2:
 
+- title: "Cooperative and competitive spreading dynamics on the human connectome"
+  image: 
+  description: ""
+  authors: Misic B, Betzel RF, Nematzadeh A, Gõni J, Griffa A, Hagmann P, Flammini A, Ahn Y and Sporns O
+  link:
+    url: http://dx.doi.org/10.1016/j.neuron.2015.05.035
+    display: Neuron, 86(6):1518–1529 (2015)
+  highlight: 1
+  news2:
+
+- title: "Stable long-range interhemispheric coordination is supported by direct anatomical projections"
+  image: 
+  description: ""
+  authors: Shen K†, Misic B†, Bezgin G, Buschkuehl M, Deldin PJ, Hutchison RM, Jaeggi SM, Kross E, Peltier S, Everling S, Jonides J, McIntosh AR and Berman MG
+  link:
+    url: http://dx.doi.org/10.1073/pnas.1503436112
+    display: Proc Natl Acad Sci USA, 112(2):6473–6478 (2015)
+  highlight: 1
+  news2:
+
+- title: "Coordinated information generation and mental flexibility: large-scale network disruption in children with autism "
+  image: 
+  description: ""
+  authors: Misic B, Doesburg SM, Fatima Z, Vakorin VA, Taylor MJ and McIntosh AR
+  link:
+    url: http://dx.doi.org/10.1093/cercor/bhu082
+    display: Cereb Cortex, 25(9):2815-2827 (2015)
+  highlight: 1
+  news2:
+
+- title: "A network convergence zone in the hippocampus"
+  image: 
+  description: ""
+  authors: Misic B, Goñi J, Betzel RF, Sporns O and McIntosh AR
+  link:
+    url: http://dx.doi.org/10.1371/journal.pcbi.1003982
+    display: PLoS Comput Biol, 10(12):e1003982 (2014)
+  highlight: 1
+  news2:
+
+- title: "The functional connectivity landscape of the human brain"
+  image: 
+  description: ""
+  authors: Misic, B, Fatima Z, Askren MK, Buschkuehl M, Churchill N, Cimprich B, Deldin PJ, Jaeggi SM, Jung MS, Korostil M, Peltier S, Kross E, Reuter-Lorenz PA, Strother S, Jonides J, McIntosh AR and Berman MG
+  link:
+    url: http://dx.doi.org/10.1371/journal.pone.0111007
+    display: PLoS ONE, 9(10):e111007 (2014)
+  highlight: 1
+  news2:
+
+- title: "Does resting-state connectivity reflect depressive rumination? A tale of two analyses"
+  image: 
+  description: ""
+  authors: Berman MG, Misic B, Buschkuehl M, Kross E, Deldin PJ, Peltier S, Jaeggi SM, Vakorin V, McIntosh AR and Jonides J 
+  link:
+    url: http://dx.doi.org/10.1016/j.neuroimage.2014.09.027
+    display: NeuroImage, 103:267–279 (2014)
+  highlight: 1
+  news2:
+  
+- title: "Developmental trajectory of face processing revealed by integrative dynamics"
+  image: 
+  description: ""
+  authors: Misic B, Mills T, Vakorin VA, Taylor MJ and McIntosh AR
+  link:
+    url: http://dx.doi.org/10.1162/jocn_a_00640
+    display: J Cogn Neurosci, 26(10):2416–2430 (2014)
+  highlight: 1
+  news2:
+
+- title: "Communication efficiency and congestion of signal traffic in large-scale brain networks"
+  image: 
+  description: ""
+  authors: Misic B, Sporns O and McIntosh AR 
+  link:
+    url: http://dx.doi.org/10.1371/journal.pcbi.1003427
+    display: PLoS Comput Biol, 10(1):e1003427 (2014)
+  highlight: 1
+  news2:
+
+- title: "Using multivariate data reduction to predict post-surgery memory decline in patients with mesial temporal lobe epilepsy"
+  image: 
+  description: ""
+  authors: St-Laurent M, McCormick C, Cohn M, Misic B, Giannoylis I and McAndrews MP 
+  link:
+    url: http://dx.doi.org/10.1016/j.yebeh.2013.09.043
+    display: Epilepsy Behav 31:220–227 (2013)
+  highlight: 1
+  news2:
+
+- title: "Effective connectivity"
+  image: 
+  description: ""
+  authors: Misic B and McIntosh AR
+  link:
+    url: http://dx.doi.org/10.1016/B978-0-12-397025-1.00336-5
+    display: Brain Mapping: An Encyclopedic Reference, 587-592 (2013)
+  highlight: 1
+  news2:
+
+- title: "Exploring changes in dynamical non-stationarity of elecetroencephalographic brain signals in early adolescence"
+  image: 
+  description: ""
+  authors: Vakorin VA, McIntosh AR, Misic B, Krakovska, O and Paus T
+  link:
+    url: http://dx.doi.org/10.1371/journal.pone.0057217
+    display: PLoS ONE, 8(3):e57217 (2013)
+  highlight: 1
+  news2:
+
+- title: "Confounding effects of phase delay on causality estimation"
+  image: 
+  description: ""
+  authors: Vakorin VA, Misic B, Krakovska O, Bezgin G and McIntosh AR
+  link:
+    url: http://dx.doi.org/doi:10.1371/journal.pone.0053588
+    display: PLoS ONE 8(1):e53588 (2013)
+  highlight: 1
+  news2:
+
+- title: "Multivariate statistical analyses for neuroimaging data"
+  image: 
+  description: ""
+  authors: McIntosh AR and Misic B
+  link:
+    url: http://dx.doi.org/doi:10.1146/annurev-psych-113011-143804
+    display: Annu Rev Psychol 64, 499–525 (2013)
+  highlight: 1
+  news2:
+
+- title: "Functional embedding predicts the variability of neural activity"
+  image: 
+  description: ""
+  authors: Misic B, Vakorin VA, Paus T and McIntosh AR 
+  link:
+    url: http://dx.doi.org/doi:10.3389/fnsys.2011.00090
+    display: Front Syst Neurosci 5(90) (2011)
+  highlight: 1
+  news2:
+
+- title: "Empirical and theoretical aspects of generation and transfer of information in a neuromagnetic source network"
+  image: 
+  description: ""
+  authors: Vakorin VA, Misic B, Krakovska O and McIntosh AR 
+  link:
+    url: http://dx.doi.org/doi:10.3389/fnsys.2011.00096
+    display: Front Syst Neurosci 5(96) (2011)
+  highlight: 1
+  news2:
+
+- title: "Extracting message inter-departure time distributions from the human electroencephalogram"
+  image: 
+  description: ""
+  authors: Misic B, Vakorin VA, Kovacevic N, Paus T and McIntosh AR 
+  link:
+    url: http://dx.doi.org/doi:10.1371/journal.pcbi.1002065
+    display: PLoS Comput Biol 7(6):e1002065 (2011)
+  highlight: 1
+  news2:
+
+- title: "Brain noise is task-dependent and region-specific"
+  image: 
+  description: ""
+  authors: Misic B, Mills T, Taylor MJ and McIntosh AR 
+  link:
+    url: http://dx.doi.org/doi:10.1152/jn.00648.2010
+    display: J Neurophysiol 104(5), 2667–2676 (2010)
+  highlight: 1
+  news2:
+  
+  - title: "Knowledge-driven contrast gain control is characterized by two distinct electrocortical markers"
+  image: 
+  description: ""
+  authors: Misic B, Schneider BA and McIntosh AR 
+  link:
+    url: http://dx.doi.org/doi:10.3389/neuro.09.078.2009
+    display: Front Hum Neurosci 3(78) (2009)
+  highlight: 1
+  news2:
