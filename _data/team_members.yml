@@ -73,10 +73,10 @@
   education1:
   education2:
 
-- name: "This could be you !"
+- name: Justine Hansen
   photo: rock.jpg
-  info: See <a href="https://netneurolab.github.io/vacancies">openings</a> for more info
-  email: bratislav.misic@mcgill.ca
+  info: BSc student
+  email: justine.hansen@mail.mcgill.ca
   number_educ: 0
   education1:
   education2:
