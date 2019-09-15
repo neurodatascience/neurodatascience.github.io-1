@@ -42,5 +42,3 @@ permalink: /research/
 {% endif %}
 
 <p> &nbsp; </p>
-
-##TEMP##
