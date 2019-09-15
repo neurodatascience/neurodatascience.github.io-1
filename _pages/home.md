@@ -66,8 +66,8 @@ We are located at the Montreal Neurological Institute at McGill University, the 
 We are grateful for funding from Canadian Institutes of Health Research ([CIHR](http://www.cihr-irsc.gc.ca/)), the Natural Sciences and Engineering Council of Canada ([NSERC](http://www.nserc-crsng.gc.ca)), the Canada Research Chairs Program ([CRC](http://www.chairs-chaires.gc.ca/)) and the Fonds de Recherche Sante Quebec ([FRQS](http://www.frqs.gouv.qc.ca/)).
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_frqs.png" style="width: 120px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_nserc.png" style="width: 120px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_frqs.png" style="width: 140px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_nserc.png" style="width: 130px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_cihr.jpg" style="width: 120px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_crc.jpg" style="width: 110px">
 </figure>
