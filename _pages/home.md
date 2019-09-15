@@ -57,7 +57,7 @@ We are a dynamic research group at the [Montreal Neurological Institute](https:/
 </div>
 
 
-We use neuroimaging (MRI, M/EEG, PET) to map and model patterns of neural connectivity. Our goal is to quantify the effects of disease on network structure and function. Our research lies at the intersection of network science, dynamical systems and multivariate statistics. We pursue several research themes, from modeling communication processes on anatomical networks, to statistical models of network architecture and disease propagation (see [Research](research)).
+Our goal is to quantify the effects of disease on network structure and function. We use neuroimaging (MRI, M/EEG, PET) to map and model patterns of neural connectivity. Our research lies at the intersection of network science, dynamical systems and multivariate statistics. We pursue several research themes, from modeling communication processes on anatomical networks, to statistical models of network architecture and disease propagation (see [Research](research)).
 
 We are located at the Montreal Neurological Institute at McGill University, the birthplace of cognitive neuroscience and home to Penfield, Milner, Jasper and others. We exchange ideas and work with our colleagues in the [McConnell Brain Imaging Centre](https://www.mcgill.ca/bic/).
 
