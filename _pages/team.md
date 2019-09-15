@@ -11,7 +11,7 @@ permalink: /team/
 The lab is a diverse group of people interested in connectomics and neuroimaging data science. We are looking to recruit more graduate students and postdocs with backgrounds in engineering, statistics, physics and life sciences.
 
 
-Jump to [team](#team), [alumni](#alumni), [visitors](#visitors).
+Jump to [team](#team) or [alumni](#alumni).
 
 ## Team
 {% assign number_printed = 0 %}
@@ -110,29 +110,3 @@ Jump to [team](#team), [alumni](#alumni), [visitors](#visitors).
 {% if even_odd == 1 %}
 </div>
 {% endif %}
-
-## Visitors
-<div class="row">
-
-<div class="col-sm-4 clearfix">
-<h4>Visitors</h4>
-{% for member in site.data.alumni_visitors %}
-{{ member.name }}
-{% endfor %}
-</div>
-
-<div class="col-sm-4 clearfix">
-<h4>Master students</h4>
-{% for member in site.data.alumni_msc %}
-{{ member.name }}
-{% endfor %}
-</div>
-
-<div class="col-sm-4 clearfix">
-<h4>Bachelor Students</h4>
-{% for member in site.data.alumni_bsc %}
-{{ member.name }}
-{% endfor %}
-</div>
-
-</div>
