@@ -57,11 +57,9 @@ We are a dynamic research group at the [Montreal Neurological Institute](https:/
 </div>
 
 
+We use neuroimaging (MRI, M/EEG, PET) to map and model patterns of neural connectivity. Our goal is to quantify the effects of disease on network structure and function. Our research lies at the intersection of network science, dynamical systems and multivariate statistics. We pursue several research themes, from modeling communication processes on anatomical networks, to statistical models of network architecture and disease propagation (see [Research](research)).
 
-
-Our goal is to quantify the effects of disease on network structure and function. We develop new models of network communication and apply these models in healthy and clinical populations. Our research lies at the intersection of network science, dynamical systems theory and multivariate statistics, with a focus on complex data sets involving multiple neuroimaging modalities, including fMRI, DWI, MEG/EEG and PET. We pursue several distinct project themes, from modeling communication processes on anatomical networks, to statistical models of network architecture and cognitive-behavioral phenotypes (see [Research](research)).
-
-We are located at the Montreal Neurological Institute at McGill University, the birthplace of cognitive neuroscience and home to Penfield, Milner, Jasper and others. We exchange ideas and work with our neighbors in the [McConnell Brain Imaging Centre](https://www.mcgill.ca/bic/).
+We are located at the Montreal Neurological Institute at McGill University, the birthplace of cognitive neuroscience and home to Penfield, Milner, Jasper and others. We exchange ideas and work with our colleagues in the [McConnell Brain Imaging Centre](https://www.mcgill.ca/bic/).
 
 We are grateful for funding from Canadian Institutes of Health Research ([CIHR](http://www.cihr-irsc.gc.ca/)), the Natural Sciences and Engineering Council of Canada ([NSERC](http://www.nserc-crsng.gc.ca)), the Canada Research Chairs Program ([CRC](http://www.chairs-chaires.gc.ca/)) and the Fonds de Recherche Sante Quebec ([FRQS](http://www.frqs.gouv.qc.ca/)).
 
