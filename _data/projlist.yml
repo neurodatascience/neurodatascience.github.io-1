@@ -1,6 +1,15 @@
-- title: "Structure-Function Relationships"
+- title: "Network Communication"
   image: epicenter.jpg
-  description: Schizophrenia is marked by distributed patterns of tissue volume loss, but what is their origin?  We show that tissue volume loss closely follows connectome architecture.
+  description: A fundamental question in connectomics is how the organization of brain networks supports neural signalling. Using anatomically realistic networks derived from diffusion weighted imaging (DWI), we develop analytic and computational models of communication, diffusion and spreading. We use these models to characterize how communication processes unfold on structural brain networks and to individual differences in cognitive performance.
+  authors: Shafiei G, Markello RD, Talpalaru A, Makowski C, Devenyi GA. Griffa A, Hagmann P, Cashman N, Lepage M, Chakravarty MM, Dagher A, Misic B
+  link:
+    url: https://doi.org/10.1101/626168
+    display: bioRxiv (2019)
+  highlight: 1
+  
+- title: "Network Transport"
+  image: epicenter.jpg
+  description: Axonal fibers provide a scaffold through which misfolded pathogenic proteins spread, shaping the course and expression of neurodegenerative diseases such as Parkinson’s (PD) and Alzheimer’s (AD) disease.  We are developing generative models that integrate connectivity (diffusion MRI), co-activation (functional MRI) and genetics (mRNA transcription patterns) to predict neurodegenerative spread in PD and AD. These dynamic agent-based models simulate the propagation of pathogenic protein molecules (agents) along white matter fibers.
   authors: Shafiei G, Markello RD, Talpalaru A, Makowski C, Devenyi GA. Griffa A, Hagmann P, Cashman N, Lepage M, Chakravarty MM, Dagher A, Misic B
   link:
     url: https://doi.org/10.1101/626168
