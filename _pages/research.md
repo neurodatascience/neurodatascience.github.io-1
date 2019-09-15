@@ -21,8 +21,8 @@ permalink: /research/
 
 <div class="col-sm-6 clearfix">
  <div class="well">
-  <b class="text-center">{{ proj.title }}</b>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/{{ proj.image }}" class="img-responsive" width="100%" style="float: center" />
+  <h3 class="text-center">{{ proj.title }}</h3>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/{{ proj.image }}" class="img-responsive" width="90%" style="float: center" />
   <p>{{ proj.description }}</p>
  </div>
 </div>
