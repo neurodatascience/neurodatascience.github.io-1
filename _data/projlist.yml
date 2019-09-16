@@ -4,7 +4,7 @@
   highlight: 1
   
 - title: "Network Transport"
-  image: res_agent.jpg
+  image: res_agent.png
   description: Axonal fibers provide a scaffold through which misfolded pathogenic proteins spread, shaping the course and expression of neurodegenerative diseases such as Parkinson’s (PD) and Alzheimer’s (AD) disease.  We are developing generative models that integrate connectivity (diffusion MRI), co-activation (functional MRI) and genetics (mRNA transcription patterns) to predict neurodegenerative spread in PD and AD. These dynamic agent-based models simulate the propagation of pathogenic protein molecules (agents) along white matter fibers.
   highlight: 1
 
