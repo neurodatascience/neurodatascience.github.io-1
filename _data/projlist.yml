@@ -1,5 +1,5 @@
 - title: "Network Communication"
-  image: res_comm.jpg
+  image: res_comm.png
   description: A fundamental question in connectomics is how the organization of brain networks supports neural signalling. Using anatomically realistic networks derived from diffusion weighted imaging (DWI), we develop analytic and computational models of communication, diffusion and spreading. We use these models to characterize how communication processes unfold on structural brain networks and to individual differences in cognitive performance.
   highlight: 1
   
@@ -14,7 +14,7 @@
   highlight: 1
   
 - title: "Statistical Connectomics"
-  image: res_stat.jpg
+  image: res_stat.png
   description: An emerging theme in network neuroscience emphasizes representations and models that not only embody the topological organization of the brain, but also capture the complex multi-scale relationships that link brain topology to its origins in genetics and development, and to the rich cognitive-behavioural repertoire it supports. We develop high-dimensional statistical models that map brain network organization to  phenotypic variation in healthy and clinical populations.
   highlight: 1
   
