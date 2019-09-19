@@ -69,3 +69,22 @@ We are grateful for funding from Canadian Institutes of Health Research ([CIHR](
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_cihr.jpg" style="width: 120px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_crc.jpg" style="width: 110px">
 </figure>
+
+
+<!-- Default Statcounter code for NetNeuroLab
+http://netneuroab.github.io -->
+<script type="text/javascript">
+var sc_project=12105013; 
+var sc_invisible=1; 
+var sc_security="b5888ece"; 
+</script>
+<script type="text/javascript"
+src="https://www.statcounter.com/counter/counter.js"
+async></script>
+<noscript><div class="statcounter"><a title="Web Analytics
+Made Easy - StatCounter" href="https://statcounter.com/"
+target="_blank"><img class="statcounter"
+src="https://c.statcounter.com/12105013/0/b5888ece/1/"
+alt="Web Analytics Made Easy -
+StatCounter"></a></div></noscript>
+<!-- End of Statcounter Code -->
