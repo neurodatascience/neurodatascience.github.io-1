@@ -30,3 +30,10 @@
   education3:
   education4:
   education5:
+
+- name: Alexandre Hutton
+  photo: static.png
+  info: Research Assistant
+  email: alexandre.hutton DomainIndicator mail.mcgill.ca
+  number_educ: 0
+
