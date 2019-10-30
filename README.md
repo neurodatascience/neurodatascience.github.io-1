@@ -1,4 +1,4 @@
-# NeuroData Science Lab Website
+# NeuroDataScience Lab Website
 
 This is the website of our academic research group at the Montreal Neurological Institute, McGill University.
 
