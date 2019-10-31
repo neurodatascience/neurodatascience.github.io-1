@@ -8,13 +8,11 @@
 #  education3:
 #  education4:
 #  education5:
-  
+
 - name: Kendra Oudyk
   photo: kendra.jpg
   info: PhD student
-  email: kendra.oudyk@mcgill.ca
-  info: PhD student
-  email: kendra.oudyk@mcgill.ca
+  email: kendra.oudyk@mail.mcgill.ca
   number_educ: 0
   education1:
   education2:
