@@ -39,3 +39,12 @@
   email: alexandre.hutton DomainIndicator mail.mcgill.ca
   number_educ: 0
 
+- name: Alexandre Pérez
+  photo: alexandre.jpg
+  info: Research Trainee
+  email: alexandre.perez2@mail.mcgill.ca
+  number_educ: 0
+  education1:
+  education2:
+  education3:
+  education4:
