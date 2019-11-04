@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Neuro-Data-Science: ORIGAMI lab 
+title: Neuro-Data-Science ORIGAMI lab 
 email: jean-baptiste.poline@mcgill.ca
 description: > # this means to ignore newlines until "baseurl:"
   Welcome to the Neuro-Data-Science ORIGAMI Lab at the McConnell Brain Imaging Centre, Montreal Neurological Institute.
