@@ -1,7 +1,7 @@
 ---
-title: "NetNeuroLab - Team"
+title: "NeuroDataScience-Origami - Team"
 layout: gridlay
-excerpt: "NetNeuroLab: Team members"
+excerpt: "NeuroDataScience-Origami: Team members"
 sitemap: false
 permalink: /team/
 ---

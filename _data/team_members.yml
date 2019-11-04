@@ -46,3 +46,13 @@
   education2:
   education3:
   education4:
+
+- name: Jean-Baptiste Poline
+  photo: jb.jpg
+  info: Principal Investigator 
+  email: jean-baptiste.poline@mail.mcgill.ca
+  number_educ: 0
+  education1:
+  education2:
+  education3:
+  education4:
