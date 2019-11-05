@@ -17,11 +17,7 @@
   highlight: 1
 
 - title: "LAB–QA2GO: A Free, Easy-to-Use Toolbox for the Quality Assessment of Magnetic Resonance Imaging Data"
-<<<<<<< HEAD
   image: labqa2go.jpg
-=======
-  image: labqa2go.png
->>>>>>> master
   description: LAB-QA2GO is a lightweighted virtual machine for the quality assessment and control of different phantoms and human MRI data.
   authors: Vogelbacher C, Bopp MHA, Schuster, V, Herholz P, Jansen A, Sommer J
   link:
