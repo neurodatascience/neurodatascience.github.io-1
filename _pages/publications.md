@@ -11,7 +11,7 @@ permalink: /publications/
 
 ## Highlights
 
-For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.ca/citations?user=Jv_ICEoAAAAJ&hl=en) or [PubMed](https://www.ncbi.nlm.nih.gov/pubmed?term=Misic%20B%5BAuthor%5D). Code is available on our [GitHub repo](https://github.com/netneurolab).
+For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.com.au/citations?user=BU7Zdi4AAAAJ&hl=en) or [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/?term=JB+Poline). Code is available on our [GitHub repo](https://github.com/neurodatascience).
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
@@ -60,4 +60,3 @@ For a full list see [below](#full-list) or go to [Google Scholar](https://schola
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
 
 {% endfor %}
-
