@@ -6,10 +6,10 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: NetNeuroLab
-email: bratislav.misic@mcgill.ca
+title: Neuro-Data-Science ORIGAMI lab 
+email: jean-baptiste.poline@mcgill.ca
 description: > # this means to ignore newlines until "baseurl:"
-  Home of the Network Neurocience Lab at the McConnell Brain Imaging Centre, Montreal Neurological Institute.
+  Welcome to the Neuro-Data-Science ORIGAMI Lab at the McConnell Brain Imaging Centre, Montreal Neurological Institute.
 baseurl: ""
 url: ""
 
