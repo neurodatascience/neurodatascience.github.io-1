@@ -24,6 +24,7 @@ We are a research group at the [Montreal Neurological Institute](https://www.mcg
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/labGroup_small.png" alt="Slide 1" />
         </div>
         <div class="item">
+        <!-- comment out by Vincent
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slide_hierarchy.png" alt="Slide 2" />
         </div>
         <div class="item">
@@ -41,6 +42,7 @@ We are a research group at the [Montreal Neurological Institute](https://www.mcg
          <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slide_scfc.png" alt="Slide 7" />
         </div>
+        -->
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
