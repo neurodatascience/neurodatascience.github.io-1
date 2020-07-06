@@ -86,3 +86,13 @@
   education2:
   education3:
   education4:
+
+- name: Adam Trefonides
+  photo: adam.jpg
+  info: Research Software Developer
+  email: adam.trefonides@mcgill.ca
+  number_educ: 0
+  education1:
+  education2:
+  education3:
+  education4:
