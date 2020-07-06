@@ -76,3 +76,13 @@
   education3:
   education4:
   education5:
+  
+- name: Gaël Varoquaux
+  photo: gael.jpg
+  info: Visiting Professor
+  email: gael.varoquaux@mcgill.ca
+  number_educ: 1
+  education1: Research Director, Inria
+  education2:
+  education3:
+  education4:
