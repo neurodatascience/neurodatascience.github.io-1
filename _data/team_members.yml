@@ -86,3 +86,13 @@
   education2:
   education3:
   education4:
+
+- name: Jérôme Dockès
+  photo: jerome.jpg
+  info: Postdoctoral researcher
+  email: jerome@dockes.org
+  number_educ: 0
+  education1:
+  education2:
+  education3:
+  education4:
