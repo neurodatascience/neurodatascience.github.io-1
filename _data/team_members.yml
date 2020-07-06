@@ -66,6 +66,17 @@
   education3:
   education4:
 
+- name: Jacob Sanz-Robinson
+  photo: jacob.jpg
+  info: Research Trainee
+  email: jacob.sanz-robinson@mail.mcgill.ca
+  number_educ: 0
+  education1:
+  education2:
+  education3:
+  education4:
+  education5:
+  
 - name: Gaël Varoquaux
   photo: gael.jpg
   info: Visiting Professor
