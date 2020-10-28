@@ -1,0 +1,100 @@
+JB:
+    display_name: "Jean-Baptiste Poline"
+    webpage: "https://www.mcgill.ca/neuro/jean-baptiste-poline-phd"
+    github: jbpoline
+    role: faculty
+    image: /img/people/jb.jpg
+    bio: Principal Investigator
+
+Gael:
+    display_name: "Gaël Varoquaux"
+    webpage: "http://gael-varoquaux.info/"
+    github: GaelVaroquaux
+    role: faculty
+    image: /img/people/gael.jpg
+    bio: Visiting Professor (Research Director, Inria)
+
+Lex:
+    display_name: "Alexandre Hutton"
+    webpage: "https://github.com/AlexandreHutton"
+    github: AlexandreHutton
+    role: staff
+    image: /img/people/lex.jpg
+    bio: Research Assistant
+
+Adam:
+    display_name: "Adam Trefonides"
+    webpage:
+    github:
+    role: staff
+    image: /img/people/adam.png
+    bio: Research Software Developer
+
+Peer:
+    display_name: "Peer Herholz"
+    webpage: "https://peerherholz.github.io/"
+    github: https://github.com/peerherholz
+    role: postdoc
+    image: /img/people/peer.png
+    bio: Postdoctoral researcher
+
+Vincent:
+    display_name: "Qing Wang (Vincent)"
+    webpage: "https://github.com/Vincent-wq"
+    github: Vincent-wq
+    role: postdoc
+    image: /img/people/vincent.jpg
+    bio: Postdoctoral researcher
+
+Jerome:
+    display_name: "Jérôme Dockès"
+    webpage: "https://jeromedockes.github.io/"
+    github: jeromedockes
+    role: postdoc
+    image: /img/people/jerome.jpg
+    bio: Postdoctoral researcher
+
+Kendra:
+    display_name: "Kendra Oudyk"
+    webpage: "https://koudyk.github.io/"
+    github: koudyk
+    role: grad
+    image: /img/people/kendra.jpg
+    bio: PhD student
+
+Elizabeth:
+    display_name: "Elizabeth DuPre"
+    webpage: "https://elizabeth-dupre.com/"
+    github: emdupre
+    role: grad
+    image: /img/people/elizabeth.jpg
+    bio: PhD student
+
+Irene:
+    display_name: "Ting Zhang"
+    webpage:
+    github:
+    role: grad
+    image: /img/people/ducky.jpg
+    bio: PhD student
+
+Jacob:
+    display_name: "Jacob Sanz-Robinson"
+    webpage: "https://jacobsanz97.github.io/"
+    github: jacobsanz97
+    role: grad
+    image: /img/people/jacob.jpg
+    bio: MSc student
+
+Alex:
+    display_name: "Alexandre Pérez"
+    role: alum
+    bio: "Research Trainee"
+
+Lukas:
+    display_name: "Lukas Shannon"
+    role: ugrad
+
+Kate:
+    display_name: "Kate Kim"
+    role: ugrad

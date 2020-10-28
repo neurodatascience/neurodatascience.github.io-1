@@ -1,43 +1,52 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
+name: NeuroDataScience ORIGAMI Research Group
+url: https://neurodatascience.github.io/
 
-# Site settings
-title: Neuro-Data-Science ORIGAMI lab 
-email: jean-baptiste.poline@mcgill.ca
-description: > # this means to ignore newlines until "baseurl:"
-  Welcome to the Neuro-Data-Science ORIGAMI Lab at the McConnell Brain Imaging Centre, Montreal Neurological Institute.
-baseurl: ""
-url: ""
+exclude: [bibble, README.md, Makefile, screenshot.png]
 
-include:
-  - .htaccess
-  - _pages
+# colorize code snippets with the pygments module
+highlighter: pygments
 
-sass:
-  sass_dir: _sass
+# The path structure for blog posts.
+permalink: /blog/:year/:month/:day/:title.html
 
-# Conversion
-markdown: kramdown
-highlighter: rouge
-lsi: false
-excerpt_separator: "\n\n"
-incremental: false
+# Sections on the "people" page.
+roles:
+  - key: faculty
+    name: Faculty
+  - key: staff
+    name: Staff
+  - key: postdoc
+    name: Researchers
+  - key: grad
+    name: Graduate Students
+  - key: ugrad
+    name: Undergraduate Students
+  - key: alum
+    name: Alumni
 
+# Number of news stories on the front page.
+front_page_news: 8
 
+# Base pathname for links.
+base: ''
 
-# Markdown Processing
-kramdown:
-  input: GFM
-  hard_wrap: false
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  smart_quotes: lsquo,rsquo,ldquo,rdquo
-  enable_coderay: false
-  parse_block_html: true # default for kramdown is false. This will enable using Markdown links
+# make pages for the _projects folder
+collections:
+  projects:
+    output: true
+
+# Navigation bar links.
+navigation:
+  - title: Home
+    link: /
+  - title: About
+    link: /about.html
+  - title: People
+    link: /#people
+  - title: Research
+    link: /research.html
+  - title: Publications
+    link: /publications.html
+  - title: Lab Wiki
+    link: /wiki.html
 
