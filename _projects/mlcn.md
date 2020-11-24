@@ -1,6 +1,6 @@
 ---
 title: Machine Learning for the Cognitive Neurosciences
-subtitle: Teaching workshop for applying ML methods to neuroscience
+description: Teaching workshop for applying ML methods to neuroscience
 status: active
 layout: default
 ---
