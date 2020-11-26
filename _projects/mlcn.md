@@ -19,6 +19,14 @@ The core content will be presented over the remaining days. Our first speaker, D
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**NOTE:** Registering for the Calcul Quebec Python event automatically registers you for the entire workshop.  
 **Contact**: info.mlcn@gmail.com  
 
+### Volunteers  
+Want to help out? Contact us at info.mlcn@gmail.com, we're looking for people to help out with answering questions and solving users' technical issues.  
+Here are the people who have generously offered to help out:  
+[﻿Nikhil Bhagwat](https://github.com/nikhil153)  
+[Peer Herholz](https://peerherholz.github.io/)  
+[Vincent Qing](https://github.com/Vincent-wq)  
+[Jérôme Dockès](https://jeromedockes.github.io/)  
+
 
 ### Organizers & Contributors:  
 **Alexandre Hutton**, MNI, McGill University  
