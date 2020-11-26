@@ -42,7 +42,7 @@ HBHL-NeuroHub
 ### Preliminary Schedule:  
 **Day 1** (Monday)  
 _Group 1_:  
-09:00 – 12:00 Calcul Québec – Introduction to Python and other basics  
+09:00 – 12:00 Calcul Québec – Introduction to Programming with Python  
 _Group 2_:  
 09:00 - 10:00 Linux command line: Bash.  
 10:00 - 11:00 ORIGAMI - Git & version control  
@@ -52,7 +52,7 @@ _Group 1_:
 09:00 - 10:00 Linux command line: Bash.  
 10:00 - 11:00 ORIGAMI - Git & version control  
 _Group 2_:  
-09:00 – 12:00 Calcul Québec – Introduction to Python and other basics  
+09:00 – 12:00 Calcul Québec – Introduction to Programming with Python  
   
 **Day 3** (Wednesday)  
 09:00 – 10:30 Dr. Tal Yarkoni – “Machine Learning as Applied to Neuroimaging”  
