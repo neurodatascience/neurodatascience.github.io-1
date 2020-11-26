@@ -26,7 +26,7 @@ Here are the people who have generously offered to help out:
 [Peer Herholz](https://peerherholz.github.io/)  
 [Vincent Qing](https://github.com/Vincent-wq)  
 [Jérôme Dockès](https://jeromedockes.github.io/)  
-
+[Kendra Oudyk](https://koudyk.github.io/)  
 
 ### Organizers & Contributors:  
 **Alexandre Hutton**, MNI, McGill University  
