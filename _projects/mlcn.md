@@ -1,23 +1,24 @@
 ---
 title: Machine Learning for the Cognitive Neurosciences
-subtitle: Teaching workshop for applying ML methods to neuroscience
+description: Teaching workshop for applying ML methods to neuroscience
 status: active
 layout: default
 ---
 
-From the 18th to 22nd of January, 2021,  the NeuroDataScience ORIGAMI lab, the McGill Centre for Integrative Neuroscience,  and HBHL’s NeuroHub will hold a workshop entitled “Machine Learning for the Cognitive Neurosciences”, whose objective will be to introduce researchers to both the conceptual and practical rudiments of machine learning as applied to neuroimaging. See preliminary schedule below.
+From the 18th to 22nd of January, 2021, the **NeuroDataScience ORIGAMI** lab, the **McGill Centre for Integrative Neuroscience**, and **HBHL’s NeuroHub** will hold a workshop entitled “*Machine Learning for the Cognitive Neurosciences*”, whose objective will be to introduce researchers to both the conceptual and practical rudiments of machine learning as applied to neuroimaging. See preliminary schedule below.  
 
-Though attendees are expected to have a general familiarity with brain imaging and conventional statistical analyses, the first two days introduce attendees to the software environment that will serve for the practical exercises during the workshop, including some basics of the Linux command line (Bash), Git, the Python programming language, and several Python-based packages for scientific computing, courtesy of Calcul Québec.
+Though attendees are expected to have a general familiarity with brain imaging and conventional statistical analyses, the first two days introduce attendees to the software environment that will serve for the practical exercises during the workshop, including some basics of the Linux command line (Bash), Git, the Python programming language, and several Python-based packages for scientific computing, courtesy of [Calcul Québec](http://www.calculquebec.ca/).  
 
-The core content will be presented over the remaining days. Our first speaker, Dr. Tal Yarkoni (University of Texas at Austin) will discuss the scientific applications of machine learning in brain imaging. Our second speaker, Dr. Ella Gabitov (McGill University), will present on the explanatory power and limitations of machine learning when applied to cognitive neuroscience. Throughout the workshop, hands-on tutorials will be presented by Alexandre Hutton (ORIGAMI, McGill), which will focus on giving participants an understanding of core concepts and common practices in machine learning.
+The core content will be presented over the remaining days. Our first speaker, Dr. Tal Yarkoni (University of Texas at Austin) will discuss the scientific applications of machine learning in brain imaging. Our second speaker, Dr. Ella Gabitov (McGill University), will present on the explanatory power and limitations of machine learning when applied to cognitive neuroscience. Throughout the workshop, hands-on tutorials will be presented by Alexandre Hutton (ORIGAMI, McGill), which will focus on giving participants an understanding of core concepts and common practices in machine learning.  
 
 ### Logistic Summary:
-Dates: January 18-22, 2021  
-Cost: $10  
-Venue: The workshop will be held online over Zoom.  
-Registration: The link will be made available following the announcement.  
-Info: [ORIGAMI website](/projects/mlcn.html)  
-Questions: Contact us via email: info.mlcn@gmail.com  
+**Dates**: January 18-22, 2021  
+**Cost**: $10  
+**Venue**: The workshop will be held online over Zoom.  
+**Registration**: Please follow [this link to register via EventBrite](https://www.eventbrite.ca/e/introduction-to-programming-with-python-online-pyt101-registration-128257709261?discount=python_cq) and use the "ML Academic registration" ticket when prompted.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**NOTE:** Registering for the Calcul Quebec Python event automatically registers you for the remainder of the ML workshop.  
+**Info**: [ORIGAMI website](/projects/mlcn.html)  
+**Contact**: info.mlcn@gmail.com  
 
 
 ### Organizers & Contributors:  
