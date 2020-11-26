@@ -17,7 +17,6 @@ The core content will be presented over the remaining days. Our first speaker, D
 **Venue**: The workshop will be held online over Zoom.  
 **Registration**: Please follow [this link to register via EventBrite](https://www.eventbrite.ca/e/introduction-to-programming-with-python-online-pyt101-registration-128257709261?discount=python_cq) and use the "ML Academic registration" ticket when prompted.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**NOTE:** Registering for the Calcul Quebec Python event automatically registers you for the entire workshop.  
-**Info**: [ORIGAMI website](/projects/mlcn.html)  
 **Contact**: info.mlcn@gmail.com  
 
 
