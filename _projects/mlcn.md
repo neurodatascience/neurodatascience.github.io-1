@@ -15,7 +15,7 @@ The core content will be presented over the remaining days. Our first speaker, D
 **Dates**: January 18-22, 2021  
 **Cost**: $10  
 **Venue**: The workshop will be held online over Zoom.  
-**Registration**: Please follow [this link to register via EventBrite](https://www.eventbrite.ca/e/introduction-to-programming-with-python-online-pyt101-registration-128257709261?discount=python_cq) and use the "ML Academic registration" ticket when prompted.  
+**Registration**: Please follow [this link to register via EventBrite](https://www.eventbrite.ca/e/introduction-to-programming-with-python-online-pyt101-registration-131360136705?discount=python_cq) and use the "ML Academic registration" ticket when prompted.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**NOTE:** Registering for the Calcul Quebec Python event automatically registers you for the entire workshop.  
 **Contact**: info.mlcn@gmail.com  
 
