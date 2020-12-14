@@ -15,7 +15,7 @@ layout: default
 <img src="/img/logos/MCIN-logo-V01.png" width="131" height="27">   
 <img src="/img/logos/unique-logo.png" width="64" height="64">
 </div>
-
+<p> </p>
 
 From the 18th to 22nd of January, 2021, the **[NeuroDataScience ORIGAMI](https://neurodatascience.github.io/)** lab, the **McGill Centre for Integrative Neuroscience**, **HBHL’s NeuroHub** and **UNIQUE** will hold a workshop entitled “*Machine Learning for the Cognitive Neurosciences*”, whose objective will be to introduce researchers to both the conceptual and practical rudiments of machine learning as applied to neuroimaging. See preliminary schedule below.  
 
