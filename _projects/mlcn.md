@@ -7,13 +7,13 @@ layout: default
 <div style="text-align:center">
 <img src="/img/logos/mcgill_logo.jpg" width="140" height="70">   
 <!-- img src="/img/logos/neuro.png" width="210" height="70" -->  
-<img src="/img/logos/neuro.png" width="140" height="47">   
+&nbsp; <img src="/img/logos/neuro.png" width="140" height="47">   
 <!-- /div -->
 <!-- div style="text-align:center" -->
 <!-- img src="/img/logos/hbhl_logo_en_pantone.png" width="210" height="70" -->
-<img src="/img/logos/logo-neurohub.png" width="170" height="70">   
-<img src="/img/logos/MCIN-logo-V01.png" width="131" height="27">   
-<img src="/img/logos/unique-logo.png" width="64" height="64">
+&nbsp; <img src="/img/logos/logo-neurohub.png" width="170" height="70">   
+&nbsp; <img src="/img/logos/MCIN-logo-V01.png" width="131" height="27">   
+&nbsp; <img src="/img/logos/unique-logo.png" width="64" height="64">
 </div>
 <p> </p>
 
