@@ -4,18 +4,20 @@ description: Teaching workshop for applying ML methods to neuroscience
 status: active
 layout: default
 ---
+<br>
 <div style="text-align:center">
 <img src="/img/logos/mcgill_logo.jpg" width="140" height="70">   
 <!-- img src="/img/logos/neuro.png" width="210" height="70" -->  
-&nbsp; <img src="/img/logos/neuro.png" width="140" height="47">   
+&nbsp; &nbsp; &nbsp; &nbsp; <img src="/img/logos/neuro.png" width="140" height="47">   
 <!-- /div -->
 <!-- div style="text-align:center" -->
 <!-- img src="/img/logos/hbhl_logo_en_pantone.png" width="210" height="70" -->
-&nbsp; <img src="/img/logos/logo-neurohub.png" width="170" height="70">   
-&nbsp; <img src="/img/logos/MCIN-logo-V01.png" width="131" height="27">   
-&nbsp; <img src="/img/logos/unique-logo.png" width="64" height="64">
+&nbsp; &nbsp; &nbsp; &nbsp; <img src="/img/logos/logo-neurohub.png" width="170" height="70">   
+&nbsp; &nbsp; &nbsp; &nbsp; <img src="/img/logos/MCIN-logo-V01.png" width="131" height="27">   
+&nbsp; &nbsp; &nbsp; &nbsp; <img src="/img/logos/unique-logo.png" width="64" height="64">
 </div>
-<p> </p>
+<br>
+<br>
 
 From the 18th to 22nd of January, 2021, the **[NeuroDataScience ORIGAMI](https://neurodatascience.github.io/)** lab, the **McGill Centre for Integrative Neuroscience**, **HBHL’s NeuroHub** and **UNIQUE** will hold a workshop entitled “*Machine Learning for the Cognitive Neurosciences*”, whose objective will be to introduce researchers to both the conceptual and practical rudiments of machine learning as applied to neuroimaging. See preliminary schedule below.  
 
@@ -50,7 +52,7 @@ Here are the people who have generously offered to help out:
     
 NeuroDataScience: ORIGAMI  
 McGill Centre for Integrative Neuroscience  
-HBHL-NeuroHub
+HBHL-NeuroHub   
 UNIQUE
 
 ### Preliminary Schedule:  
