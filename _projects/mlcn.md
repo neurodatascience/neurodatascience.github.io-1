@@ -32,7 +32,6 @@ The core content will be presented over the remaining days. Our first speaker, D
 **Venue**: The workshop will be held online over Zoom.  
 **Registration**: Closed.  
 **Contact**: info.mlcn@gmail.com  
-**YouTube livestream**: [Link!](https://www.youtube.com/watch?v=CDFOgdmLTOY)
 
 ### Volunteers  
 Want to help out? Contact us at info.mlcn@gmail.com, we're looking for people to help out with answering questions and solving users' technical issues.  
