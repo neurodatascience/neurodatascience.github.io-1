@@ -32,7 +32,7 @@ The core content will be presented over the remaining days. Our first speaker, D
 **Venue**: The workshop will be held online over Zoom.  
 **Registration**: Closed.  
 **Contact**: info.mlcn@gmail.com  
-**Material**: [Link!](https://github.com/neurodatascience/mlcn)
+**Material**: [Link!](https://github.com/neurodatascience/mlcn)  
 **YouTube streaming**: Streaming will resume in the morning.
 
 
