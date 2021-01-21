@@ -88,6 +88,6 @@ _Group 2_:
 13:30 – 16:00 Practical exercises (offline)  
   
 **Day 5** (Friday)  
-09:00 – 10:00 Dr. Ella Gabitov – “The elephant in the room: to explain or to predict, that is the question”  
+09:00 – 10:00 Dr. Ella Gabitov, Dr. Jean-Baptiste Poline – “The elephant in the room: to explain or to predict, that is the question”  
 10:00 – 12:00 Alexandre Hutton – Hands-on ML: confounds. model interpretation (and lack thereof)  
 13:30 – 16:30 Practical exercises (offline), data clinic  
