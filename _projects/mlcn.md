@@ -33,7 +33,7 @@ The core content will be presented over the remaining days. Our first speaker, D
 **Registration**: Closed.  
 **Contact**: info.mlcn@gmail.com  
 **Material**: [Link!](https://github.com/neurodatascience/mlcn)  
-**YouTube streaming**: [Link!](https://www.youtube.com/watch?v=5seQpfyI4lo)  
+**YouTube streaming**: New link Friday material.   
 
 
 ### Volunteers  
