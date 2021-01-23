@@ -33,12 +33,10 @@ The core content will be presented over the remaining days. Our first speaker, D
 **Registration**: Closed.  
 **Contact**: info.mlcn@gmail.com  
 **Material**: [Link!](https://github.com/neurodatascience/mlcn)  
-**YouTube streaming**: [Link!](https://www.youtube.com/watch?v=KQDnVuRWUbs)    
 
 
 ### Volunteers  
-Want to help out? Contact us at info.mlcn@gmail.com, we're looking for people to help out with answering questions and solving users' technical issues.  
-Here are the people who have generously offered to help out:  
+Here are the people who have generously offered to help out with answering questions and addressing users' technical difficulties during the workshop:    
 [﻿Nikhil Bhagwat](https://github.com/nikhil153)  
 [Peer Herholz](https://peerherholz.github.io/)  
 [Vincent Qing](https://github.com/Vincent-wq)  
