@@ -98,3 +98,11 @@ Lukas:
 Kate:
     display_name: "Kate Kim"
     role: ugrad
+    
+Nikhil:
+    display_name: "Nikhil Bhagwat"
+    webpage: 
+    github: nikhil153
+    role: postdoc
+    image: /img/people/ducky.png
+    bio: Postdoctoral researcher
