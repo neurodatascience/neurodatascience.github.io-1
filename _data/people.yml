@@ -108,3 +108,11 @@ Nikhil:
     role: postdoc
     image: /img/people/nikhil.png
     bio: Postdoctoral researcher
+
+Sebastian:
+    display_name: "Sebastian Urchs"
+    webpage: https://www.surchs.com/
+    github: surchs
+    role: staff
+    image: /img/people/sebastian.jpg
+    bio: Research Software Developer
