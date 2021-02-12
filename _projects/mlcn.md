@@ -3,6 +3,8 @@ title: Machine Learning for the Cognitive Neurosciences
 description: Teaching workshop for applying ML methods to neuroscience
 status: active
 layout: default
+people:
+  - Lex
 ---
 <br>
 <div style="text-align:center">
@@ -33,6 +35,7 @@ The core content will be presented over the remaining days. Our first speaker, D
 **Registration**: Closed.  
 **Contact**: info.mlcn@gmail.com  
 **Material**: [Link!](https://github.com/neurodatascience/mlcn)  
+**Recordings**: [Link!](https://www.youtube.com/playlist?list=PLyn6GzKDWSBnpI0kMRfHn6NkW5tcyB6VI)  
 
 
 ### Volunteers  
