@@ -116,3 +116,10 @@ Sebastian:
     role: staff
     image: /img/people/sebastian.jpg
     bio: Research Software Developer
+
+Mohammad:
+    display_name: "Mohammad Torabi"
+    github: mtorabi59
+    role: grad
+    image: /img/people/MohammadT.jpg
+    bio: PhD student
