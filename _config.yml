@@ -47,6 +47,8 @@ navigation:
     link: /research.html
   - title: Publications
     link: /publications.html
+  - title: Job openings
+    link: /job_postings.html
   - title: Lab Wiki
     link: /wiki.html
 
