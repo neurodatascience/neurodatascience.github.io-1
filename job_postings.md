@@ -3,8 +3,8 @@ layout: default
 title: Open positions
 
 ---
-We are always for new team members who are excited about neuroscience, 
-open science and reproducibility.
+We are always happy to welcome new team members who are excited about neuro data science, new methodological and technical 
+developments for a more open and reproducible neuroscience.
 
 ##  Research Assistant
 We are looking for a motivated research assistant with an interest in neuroimaging 
