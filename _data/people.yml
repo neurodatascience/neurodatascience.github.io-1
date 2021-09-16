@@ -123,3 +123,10 @@ Mohammad:
     role: grad
     image: /img/people/MohammadT.jpg
     bio: PhD student
+    
+Jonathan:
+    display_name: "Jonathan Armoza"
+    github: jarmoza
+    role: staff
+    image: /img/people/jonathan.jpg
+    bio: Research Software Developer
