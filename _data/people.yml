@@ -151,3 +151,9 @@ Ines:
     role: staff
     image: /img/people/ines.jpg
     bio: Research Assistant
+Brent:
+    display_name: "Brent McPherson"
+    github: bcmcpher
+    role: postdoc
+    image: /img/people/brent.jpg
+    bio: Post Doctoral Fellow
