@@ -4,7 +4,9 @@ subtitle: A neurobagel complement project
 status: active
 layout: project
 people:
-  - Nikhil, Vincent, Michelle
+  - Nikhil
+  - Vincent
+  - Michelle
 ---
 
 # mr_proc
@@ -22,8 +24,8 @@ mr_proc is a workflow manager for:
 
 ## Modules
 
-1. `Code`: mr_proc [repo](code_org.md)
-2. `Data`: A [dataset](data_org.md) organized in a specific directory structure
+1. `Code`: Codebase [repo](code_org.md) for running and tracking workflows
+2. `Data`: [Dataset](data_org.md) organized in a specific directory structure
 3. `Containers`: Singularity containers encapsulating your processing pipelines
 
 
