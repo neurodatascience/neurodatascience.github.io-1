@@ -130,3 +130,10 @@ Jonathan:
     role: staff
     image: /img/people/jonathan.jpg
     bio: Research Software Developer
+
+Alyssa:
+    display_name: "Alyssa Dai"
+    github: alyssadai
+    role: staff
+    image: /img/people/alyssa.png
+    bio: Research Software Developer
