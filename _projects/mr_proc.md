@@ -1,3 +1,12 @@
+---
+title: mr_proc - a reproducible computational workflow for standardized data curation and processing pipelines 
+subtitle: A neurobagel complement project
+status: active
+layout: project
+people:
+  - Nikhil, Vincent, Michelle
+---
+
 # mr_proc
 *Process long and prosper*
 
@@ -24,7 +33,7 @@ mr_proc is a workflow manager for:
 3. Organize processed MR data inside `derivatives` directory
 4. Organize demographic and clinical assessment data inside `tabular` directory
 5. Run tracker scripts to populate `bagel.csv` with tabular and processing pipeline metadata
-6. Provide metadata to `NeuroBagel` to allow dashboarding and querying participants across multiple studies
+6. Provide metadata to [NeuroBagel](https://www.neurobagel.org/documentation/) to allow dashboarding and querying participants across multiple studies
     
 ## Documentation
 Detailed documentation is provided [here](https://www.neurobagel.org/documentation/mr_proc/overview/)
