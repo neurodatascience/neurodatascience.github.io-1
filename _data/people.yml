@@ -144,3 +144,10 @@ Emad:
     role: grad
     image: /img/people/Emad.png
     bio: PhD student
+
+Ines:
+    display_name: "Inés Gonzalez Pepe"
+    github: 
+    role: staff
+    image: /img/people/ines.jpg
+    bio: Research Assistant
