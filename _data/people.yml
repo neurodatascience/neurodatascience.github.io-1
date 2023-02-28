@@ -137,3 +137,10 @@ Alyssa:
     role: staff
     image: /img/people/alyssa.png
     bio: Research Software Developer
+
+Emad:
+    display_name: "Emad Askarinejad"
+    github: emad-askari
+    role: grad
+    image: /img/people/Emad.png
+    bio: PhD student
