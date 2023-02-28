@@ -17,8 +17,6 @@ roles:
     name: Staff
   - key: postdoc
     name: Researchers
-  - key: "academic associate"
-    name: Researchers
   - key: grad
     name: Graduate Students
   - key: ugrad
